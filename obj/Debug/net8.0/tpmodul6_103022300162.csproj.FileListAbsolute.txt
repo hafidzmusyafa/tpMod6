@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w6\tpmodul6_103022300162\bin\Debug\net8.0\tpmodul6_103022300162.exe
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w6\tpmodul6_103022300162\bin\Debug\net8.0\tpmodul6_103022300162.deps.json
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w6\tpmodul6_103022300162\bin\Debug\net8.0\tpmodul6_103022300162.runtimeconfig.json
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w6\tpmodul6_103022300162\bin\Debug\net8.0\tpmodul6_103022300162.dll
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w6\tpmodul6_103022300162\bin\Debug\net8.0\tpmodul6_103022300162.pdb
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w6\tpmodul6_103022300162\obj\Debug\net8.0\tpmodul6_103022300162.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w6\tpmodul6_103022300162\obj\Debug\net8.0\tpmodul6_103022300162.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w6\tpmodul6_103022300162\obj\Debug\net8.0\tpmodul6_103022300162.AssemblyInfo.cs
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w6\tpmodul6_103022300162\obj\Debug\net8.0\tpmodul6_103022300162.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w6\tpmodul6_103022300162\obj\Debug\net8.0\tpmodul6_103022300162.sourcelink.json
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w6\tpmodul6_103022300162\obj\Debug\net8.0\tpmodul6_103022300162.dll
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w6\tpmodul6_103022300162\obj\Debug\net8.0\refint\tpmodul6_103022300162.dll
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w6\tpmodul6_103022300162\obj\Debug\net8.0\tpmodul6_103022300162.pdb
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w6\tpmodul6_103022300162\obj\Debug\net8.0\tpmodul6_103022300162.genruntimeconfig.cache
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w6\tpmodul6_103022300162\obj\Debug\net8.0\ref\tpmodul6_103022300162.dll
